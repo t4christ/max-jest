@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "jest": "21.2.1",
+    "moment": "^2.24.0",
     "yarn": "^1.13.0"
   },
   "devDependencies": {
